@@ -7,6 +7,7 @@ type: oem
 config:
   ubuntu-core:
     hostname: odroid
+    autopilot: off
 oem:
   branding:
     name: ODROIDC
